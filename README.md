@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Solaire-Git
 - 👀 I’m interested in GitHub, PixelArt, Software Development
-- 🌱 I’m currently learning Java & Spring
-- 💞️ I’m looking to collaborate on finding out how to use GitHub
+- 🌱 I’m currently learning Java, Python, GDScript
+- 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me: GitHub
 
 <!---
